@@ -1,6 +1,6 @@
 # DynamoDb-Connector
 
-DynamoDb connector contains six spark job for ingesting json data into dynamodb.
+DynamoDb connector contains spark job for ingesting json data into dynamodb.
 Arguments Required :
   - json file location
   - dynamodb table name
