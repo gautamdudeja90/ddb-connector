@@ -1,1 +1,0 @@
-["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.11.12":{"hashes":[["/Users/gdudeja/spokeo/dq_scripts/projects/dynamo-connector/src/main/scala/DynamoConnector.scala","e87e35f7b99e1c3a447355fa09d84390e7b9be25"]],"lastModifiedTimes":[]}}]
